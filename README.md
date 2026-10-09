@@ -40,6 +40,12 @@ Thinking pathway: initial understanding → question, counterexample, or evidenc
 
 Update affected documents after significant decisions, changes in understanding, or tests. Consolidate them at session endings, milestones, and handovers. This maintenance happens during active tasks; it is not background scheduling or permanent memory.
 
+### 2026-10-09 升級 / Update
+
+加強論文閱讀與 review：一次處理一個關鍵卡點，以分級提示支援思考；明確要求交付時直接完成。用穩定節點 ID 連接紀錄、主張、證據與未解問題，分清使用者判斷、作者主張及 AI 建議。參考文件提供模板與協作案例。
+
+The update strengthens paper reading and review: address one key difficulty at a time with graduated support, and complete explicitly requested deliverables. Stable node IDs connect dialogue, claims, evidence and open questions. Keep user judgements, authors’ claims and AI suggestions distinct. Reference files provide templates and collaboration scenarios.
+
 ## 安裝 / Installation
 
 原始碼與安裝檔案：[lokchonmou/intelligent-partner](https://github.com/lokchonmou/intelligent-partner)。
